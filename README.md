@@ -1,0 +1,2 @@
+# Aparecium-Information-Retrieval-
+Developed an automated social unrest event extraction system using natural language processing algorithms which collects news content using news aggregator APIs and extracts event related parameters like location, date, actors involved etc.Performed NLP tasks like NER, POS tagging and text summarization. Trained Naive Bayes classifier on a manually curated dataset. Increased accuracy of the system by 12% by incorporating Semantic Role Labeling in identification of event parameters.
